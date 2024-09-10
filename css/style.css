@@ -111,11 +111,10 @@ body {
 .layoutFooter {
   font-style: italic;
   font-weight: 400;
-  background-color: #242424;
+  background-color: #ffffff;
   text-align: center;
   font-size: 4.5334vw;
-  color: #ffffff;
-  background-image: url(../img/backgroundFooter.png);
+  color: #333333;
   background-size: cover;
   font-family: Roboto;
   max-width: 990px;
